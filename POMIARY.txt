@@ -1,0 +1,15 @@
+1. Z pluginami optymalizacyjnymi:
+
+Time: 16681ms
+App.bundle.js: 294 kB  
+
+
+
+2. Bez pluginow:
+
+Time: 12908ms  
+App.bundle.js: 707 kB
+
+
+Na rozroznieniu srodowisk i stosowaniu pluginow optymalizacyjnych tylko w wersji produkcyjnej kodu mozemy
+na obecnym etapie budowy aplikacji zaoszczedzic ok 4 sekund na każdej kompilacji.

@@ -1,0 +1,18 @@
+ul{
+
+    list-style-type: square;
+}
+
+ul li{
+
+    color: red;
+    font-size: 1.6em;
+    cursor: pointer;
+    padding: 10px;
+    
+}
+
+ul li:hover{
+
+    text-decoration: line-through;
+}
